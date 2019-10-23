@@ -26,7 +26,7 @@ $sudo apt install mysql
 
 #### 安装软件
 
-1. gnome 桌面以及美化主题：http://pingxin0521.coding.me/2019/04/20/Linux-Ubuntu%E9%85%8D%E7%BD%AE-1/
+1. gnome 桌面以及美化主
 
 2. 常用软件
 
@@ -36,17 +36,13 @@ $sudo apt install mysql
 
 5. 开发环境node、navicat、Anaconda、jdk12、maven、intellij idea、pycharm、WebStorm
 
-   绿化过程：https://hanyunpeng0521.github.io/2019/04/02/Java-基础-0/
+   绿化过程：<https://hanyunpeng0521.github.io/2019/04/02/Java-基础-0/>
 
 6. docker 安装httpd、nginx、tomcat、mysql、redis、mongodb
 
 ### 参考
 
-美化参考：http://pingxin0521.coding.me/2019/04/20/Linux-Ubuntu%E9%85%8D%E7%BD%AE-1/
-
-https://www.jianshu.com/p/6ef16e3b0a3e
-
-软件安装和优化参考：http://pingxin0521.coding.me/2019/04/22/Linux-Ubuntu%E9%85%8D%E7%BD%AE-2/
+美化、软件安装和优化参考：<https://pingxin0521.coding.me/categories/Linux/Ubuntu/>
 
 
 
